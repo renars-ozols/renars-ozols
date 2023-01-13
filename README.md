@@ -15,7 +15,7 @@ Feel free to take a look at my repositories and to reach out to me if you have a
 
 🚀 Want to work together? Let's talk!\
 🔍 Always curious to learn new things\
-💻 Focused on web development and software engineering\
+💻 Focused on web development and software engineering
 
 You can also find me on LinkedIn [here](https://www.linkedin.com/in/renars-ozols/)
 
