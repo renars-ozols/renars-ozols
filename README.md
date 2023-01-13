@@ -23,6 +23,4 @@ You can also find me on LinkedIn [here](https://www.linkedin.com/in/renars-ozols
 
 ### Some of my best projects
 
-1. Crypto Project : A website built using PHP MVC architecture, that uses the CryptoMarketCap API to fetch crypto prices, users can buy and sell crypto, and send crypto to different users. You can find the code [here](https://github.com/renars-ozols/crypto-project)
-2. 
-3. 
+* Crypto Project : A website built using PHP MVC architecture, that uses the CryptoMarketCap API to fetch crypto prices, users can buy and sell crypto, and send crypto to different users. You can find the code [here](https://github.com/renars-ozols/crypto-project)
